@@ -12,7 +12,7 @@ metadata:
   name: web
   namespace: ingress-demo
   resourceVersion: "58860"
-  selfLink: /api/v1/namespaces/default/services/web
+  selfLink: /api/v1/namespaces/ingress-demo/services/web
   uid: bd1c08ad-a17d-4db9-be5f-54583a5770cf
 spec:
   clusterIP: 10.0.224.224
