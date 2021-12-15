@@ -1,4 +1,5 @@
 FROM node:alpine AS base
+
 WORKDIR /usr/src/app
 
 FROM node:argon AS build
