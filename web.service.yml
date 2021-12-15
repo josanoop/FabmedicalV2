@@ -15,7 +15,6 @@ metadata:
   selfLink: /api/v1/namespaces/ingress-demo/services/web
   uid: bd1c08ad-a17d-4db9-be5f-54583a5770cf
 spec:
-  clusterIP: 10.0.224.224
   externalTrafficPolicy: Cluster
   ports:
   - name: web-traffic
