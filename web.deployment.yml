@@ -10,7 +10,7 @@ metadata:
   labels:
     app: web
   name: web
-  namespace: default
+  namespace: ingress-demo
   resourceVersion: "64406"
   selfLink: /apis/apps/v1/namespaces/default/deployments/web
   uid: 378fc0b0-e58a-46e6-9654-5a84c8767efc
